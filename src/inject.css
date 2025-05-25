@@ -96,6 +96,6 @@ div.legacy-video-player.has_played.vertically_center:before {
 }
 
 /* Fix black overlay on primevideo.com */
-.fk9ydtn div > .vsc-controller {
-	height: 0;
+.atvwebplayersdk-video-surface .vsc-controller {
+  height: 0;
 }
